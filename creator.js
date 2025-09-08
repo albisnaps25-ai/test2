@@ -1,13 +1,13 @@
 // ----------------- CONFIGURATION -----------------
 const creatorData = {
-  name: "Nia Aliyah",
-  handle: "@alitah",
+  name: "Mia Pia",
+  handle: "@miapia",
   title: "Premium Content Creator",
   avatar: "v1_4.png",
   cover: "v4_144.png",
-  photos: 546,
-  videos: 362,
-  likes: "5k",
+  photos: 433,
+  videos: 322,
+  likes: "7.4",
   status: "Available now",
   bannerAd: "https://via.placeholder.com/400x90/ff6b6b/ffffff?text=Banner+Ad",
   photoGrid: [
