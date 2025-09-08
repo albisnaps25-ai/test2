@@ -425,6 +425,17 @@
     transform: translateY(-2px);
     box-shadow: 0 5px 15px rgba(102, 126, 234, 0.4);
   }
+
+    .blue-link {
+  color: #008acf;
+  text-decoration: underline;
+  text-underline-offset: 2px;
+  cursor: pointer;
+}
+.blue-link:hover {
+  color: #005c99;
+  background-color: #f0f9ff;
+}
   </style>
 </head>
 <body>
@@ -445,8 +456,8 @@
         <span class="verified">✓</span>
       </div>
       <div class="stats">
-        <span id="photoStats">📷 546 photos</span>
-        <span id="videoStats">🎥 362 videos</span>
+      <span id="photoStats" class="blue-link">📷 546 photos</span>
+        <span id="videoStats" class="blue-link">🎥 362 videos</span>
         <span>❤️ 5k</span>
       </div>
       <div class="handle">
